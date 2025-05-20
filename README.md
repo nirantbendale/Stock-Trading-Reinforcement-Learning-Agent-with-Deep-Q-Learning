@@ -6,6 +6,19 @@ A reinforcement learning approach to automated stock trading using Deep Q-Networ
 
 This project implements an autonomous trading agent that learns to make optimal buy, sell, or hold decisions based on historical stock data. The agent uses Deep Q-Learning to develop strategies that aim to maximize returns while managing transaction costs.
 
+![stock_analysis](stock_analysis.png)
+
+## Testing Progress
+![training_progress_AAPL](training_progress_AAPL.png)
+
+## Testing Actions
+![trading_actions_AAPL](trading_actions_AAPL.png)
+
+
+## Testing Results
+![testing_results_AAPL](testing_results_AAPL.png)
+
+
 ## Technical Details
 
 ### Trading Environment
